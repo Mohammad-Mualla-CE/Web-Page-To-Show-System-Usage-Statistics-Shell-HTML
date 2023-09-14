@@ -1,0 +1,400 @@
+ 
+Date : Wed Jul 27 02:12:31 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.8M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/sda1: 151M
+tmpfs: 0
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+ 
+Avgs : 282.625 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/sda1: 864M
+tmpfs: 467M
+/dev/mapper/vg1-logiaclVolume1: 714M
+ 
+Avgs : 1948 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Wed Jul 27 02:12:32 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.8M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/sda1: 151M
+tmpfs: 0
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+ 
+Avgs : 282.625 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/sda1: 864M
+tmpfs: 467M
+/dev/mapper/vg1-logiaclVolume1: 714M
+ 
+Avgs : 1948 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Wed Jul 27 02:29:01 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.8M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/sda1: 151M
+tmpfs: 0
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+ 
+Avgs : 282.625 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/sda1: 864M
+tmpfs: 467M
+/dev/mapper/vg1-logiaclVolume1: 714M
+ 
+Avgs : 1948 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Wed Jul 27 02:29:02 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.8M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/sda1: 151M
+tmpfs: 0
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+ 
+Avgs : 282.625 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/sda1: 864M
+tmpfs: 467M
+/dev/mapper/vg1-logiaclVolume1: 714M
+ 
+Avgs : 1948 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Wed Jul 27 03:00:02 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.9M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/sda1: 151M
+tmpfs: 0
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+ 
+Avgs : 282.75 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/sda1: 864M
+tmpfs: 467M
+/dev/mapper/vg1-logiaclVolume1: 714M
+ 
+Avgs : 1947.88 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Sun Jul 31 08:00:01 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.6M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+/dev/sda1: 151M
+tmpfs: 0
+ 
+Avgs : 282 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/mapper/vg1-logiaclVolume1: 714M
+/dev/sda1: 864M
+tmpfs: 467M
+ 
+Avgs : 1948.62 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Sun Jul 31 09:00:01 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.7M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+/dev/sda1: 151M
+tmpfs: 0
+ 
+Avgs : 282 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/mapper/vg1-logiaclVolume1: 714M
+/dev/sda1: 864M
+tmpfs: 467M
+ 
+Avgs : 1948.62 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Sun Jul 31 10:00:01 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.7M
+tmpfs: 0
+/dev/mapper/centos-root: 2.1G
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+/dev/sda1: 151M
+tmpfs: 0
+ 
+Avgs : 285.375 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.2G
+/dev/mapper/vg1-logiaclVolume1: 714M
+/dev/sda1: 864M
+tmpfs: 467M
+ 
+Avgs : 1945.25 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Mon Aug  1 04:00:01 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.7M
+tmpfs: 0
+/dev/mapper/centos-root: 2.2G
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+/dev/sda1: 194M
+tmpfs: 0
+ 
+Avgs : 302.25 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.1G
+/dev/mapper/vg1-logiaclVolume1: 714M
+/dev/sda1: 821M
+tmpfs: 467M
+ 
+Avgs : 1928.38 M
+ 
+.....................................
+ 
+ 
+ 
+ 
+Date : Mon Aug  1 05:00:01 EDT 2022
+----------------------------------- 
+ 
+Disk usage:
+---------- 
+ 
+Filesystem: Used
+devtmpfs: 0
+tmpfs: 0
+tmpfs: 8.8M
+tmpfs: 0
+/dev/mapper/centos-root: 2.2G
+/dev/mapper/vg1-logiaclVolume1: 1.6M
+/dev/sda1: 194M
+tmpfs: 0
+ 
+Avgs : 302.25 M
+ 
+ 
+ 
+Disk free:
+---------- 
+ 
+Filesystem: Avail
+devtmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+tmpfs: 2.3G
+/dev/mapper/centos-root: 4.1G
+/dev/mapper/vg1-logiaclVolume1: 714M
+/dev/sda1: 821M
+tmpfs: 467M
+ 
+Avgs : 1928.38 M
+ 
+.....................................
+ 
+ 
+ 

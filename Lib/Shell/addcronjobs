@@ -1,0 +1,8 @@
+##The cronjob collect disk usage and free disk, memory used and free memory, and cpu utilization:
+( printf "i"; printf "\n0 * * * * /TASK2/AppendStatisticsFiles.sh"; printf "\033"; printf ":wq"; printf "\n") | crontab -e
+
+
+
+##Avgs cronjob
+( printf "i"; printf "0 * * * * /TASK2/CallcolatAverages.sh"; printf "\033"; printf ":wq"; printf "\n") | crontab -e
+
