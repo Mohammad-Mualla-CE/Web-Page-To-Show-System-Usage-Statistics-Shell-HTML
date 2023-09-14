@@ -1,9 +1,9 @@
 # Web page to show system statistics-Task2
 
 ## Cronjob to collect system performance statistics
-The cronjob should collect disk usage and free disk, memory used and free memory, and cpu
+The cronjob collect disk usage and free disk, memory used and free memory, and cpu
 utilization. Cronjob run this job every hour. 
-Each ofthese should be stored in a file with the item name and timestamp as the file name.
+Each of these stored in a file with the item name and timestamp as the file name.
 
 
 ## Cronjob to calculate avgs
